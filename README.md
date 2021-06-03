@@ -1,4 +1,4 @@
-otra plantilla: https://drivendata.github.io/cookiecutter-data-science/
+Otra plantilla: https://drivendata.github.io/cookiecutter-data-science/ (MUCHO MÁS PRO)
 
 # Data Science Lifecycle Base Repo
 
